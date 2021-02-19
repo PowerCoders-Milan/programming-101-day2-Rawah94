@@ -15,11 +15,8 @@ here
 */
 
 //insert your code below
-var Name, Rawah;
+var Name;
 
 
-'' + String(window.prompt('Hello'));
-
-Name = Rawah;
-
-window.alert('Hello Rawah       ');
+Name = window.prompt('Please Enter Your Name');
+window.alert('Hello ' + String(Name));
