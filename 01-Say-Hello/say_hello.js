@@ -4,9 +4,9 @@ create variable name
 
 ask for input
 
-name = rawah
+input = name 
 
-output: say hello rawah
+output: say hello name
 
 print hello name
 
