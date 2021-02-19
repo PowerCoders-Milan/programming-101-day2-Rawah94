@@ -2,9 +2,11 @@
 /*
 create variable name 
 
+ask for input
+
 name = rawah
 
-input: say hello rawah
+output: say hello rawah
 
 print hello name
 
